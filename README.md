@@ -10,7 +10,7 @@
 
 | File | Description |
 |------|-------------|
-| `week1_Divyansh_Sharma_.ipynb` | Main assignment notebook with all solutions |
+| `week1_Divyansh_Sharma.ipynb` | Main assignment notebook with all solutions |
 
 ---
 
@@ -66,7 +66,7 @@ pip install numpy pandas matplotlib scipy statsmodels
 
 ### Run the Notebook
 ```bash
-jupyter notebook week1_Divyansh_Sharma_.ipynb
+jupyter notebook week1_Divyansh_Sharma.ipynb
 ```
 
 Or open it directly in **Jupyter Lab**, **Google Colab**, or **VS Code**.
