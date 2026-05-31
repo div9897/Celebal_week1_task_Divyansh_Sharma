@@ -1,4 +1,4 @@
-# 📘 Week 1 Assignment — ML Foundations
+# 📘 Week 1 Assignment — Data Science Foundations
 
 **Author:** Divyansh Sharma  
 **Topics Covered:** Python · NumPy · Pandas · Linear Algebra · Statistics · Probability Theory
