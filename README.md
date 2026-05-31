@@ -1,7 +1,8 @@
 # 📘 Week 1 Assignment — Data Science Foundations
 
 **Author:** Divyansh Sharma  
-**Topics Covered:** Python · NumPy · Pandas · Linear Algebra · Statistics · Probability Theory
+**Topics Covered:** Python · NumPy · Pandas · Linear Algebra · Statistics · Probability Theory  
+**Google Colab:** [Open in Colab](https://colab.research.google.com/drive/1peFkLwbxF2ZOu3gDaWuI4zKkCCIVquTD?usp=sharing)
 
 ---
 
