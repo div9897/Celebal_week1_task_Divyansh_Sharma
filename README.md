@@ -2,7 +2,7 @@
 
 **Author:** Divyansh Sharma  
 **Topics Covered:** Python · NumPy · Pandas · Linear Algebra · Statistics · Probability Theory  
-**Google Colab:** [Open in Colab](https://colab.research.google.com/drive/1peFkLwbxF2ZOu3gDaWuI4zKkCCIVquTD?usp=sharing)
+**Google Colab:** 👉 Please refer to this link to open the notebook: [Click Here to Open in Colab](https://colab.research.google.com/drive/1peFkLwbxF2ZOu3gDaWuI4zKkCCIVquTD?usp=sharing)
 
 ---
 
